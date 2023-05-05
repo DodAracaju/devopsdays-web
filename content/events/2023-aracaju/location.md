@@ -8,7 +8,7 @@ Description = "Local - DevOpsDays Aracaju 2023"
 <br>
 <!-- * <a href="https://goo.gl/maps/9jCMpUULWFZjs5wJ8">Map</a> -->
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.927806190435!2d-37.06012838529543!3d-10.968821892191109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x71ab143e9cf7f5b%3A0xb6b490701a79bfb6!2sUNIT%20-%20BLOCO%20D!5e0!3m2!1sen!2sbr!4v1680657681060!5m2!1sen!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://goo.gl/maps/U6VBVKBkBa7mgM8T6" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <p></p>
 
